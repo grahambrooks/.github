@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-* [Blog](https://www.grahambrooks.com)
-* [Projects](https://grahambrooks.github.io)
+* My personal [Blog](https://www.grahambrooks.com)
+* Curated list of GitHub [Projects](https://grahambrooks.github.io)
 
 <!--
 **grahambrooks/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
